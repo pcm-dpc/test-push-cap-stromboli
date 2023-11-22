@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+    <identifier>d6f83c6f-1ae9-4678-9343-38fd713bba87</identifier>
+    <sender>INGV</sender>
+    <sent>Vulcano Stromboli - Parossisma/sent>
+    <status>Exercise</status>
+    <msgType>Alert</msgType>
+    <source>IT-alert</source>
+    <scope>Public</scope>
+    <code>CAP-IT:1.0</code>
+    <note>Vulcano Stromboli - Parossisma - TEST TEST TEST</note>
+    <info>
+        <language>it-IT</language>
+        <category>GEO</category>
+        <event>Vulcano Stromboli - Parossisma</event>
+        <responseType>None</responseType>
+        <urgency>Unknown</urgency>
+        <severity>Extreme</severity>
+        <certainty>Unknown</certainty>
+        <eventCode>
+            <valueName>stromboli-px</valueName>
+            <value>Stromboli PX - 2023-11-22</value>
+        </eventCode>
+        <effective>2023-11-22T12:03:00+02:00</effective>
+        <onset>2023-11-22T12:03:00+02:00</onset>
+        <expires>2023-11-22T12:03:00+02:00</expires>
+        <senderName>INGV</senderName>
+        <headline>Esplosione parossistica a Stromboli</headline>
+        <description>Esplosione parossistica a Stromboli nei prossimi minuti</description>
+        <instruction>Io Non Rischio -</instruction>
+        <web>https://www.iononrischio.gov.it/it/preparati/vulcani/stromboli/</web>
+        <parameter>
+            <valueName>val-01</valueName>
+            <value>0</value>
+            <valueName>val-02</valueName>
+            <value>0</value>
+            <valueName>val-03</valueName>
+            <value>0</value>
+            <valueName>val-04</valueName>
+            <value>0</value>
+            <valueName>val-05</valueName>
+            <value>0</value>
+            <valueName>val-06</valueName>
+            <value>0</value>
+            <valueName>val-07</valueName>
+            <value>0</value>
+            <valueName>val-08</valueName>
+            <value>0</value>
+            <valueName>val-09</valueName>
+            <value>0</value>
+            <valueName>val-10</valueName>
+            <value>0</value>
+        </parameter>
+        <area>
+            <areaDesc>Allertamento Isola di Stromboli</areaDesc>
+            <geocode>
+                <valueName>Isole Eolie</valueName>
+                <value>00100</value>
+            </geocode>
+        </area>
+    </info>
+    <info>
+        <language>en-US</language>
+        <category>GEO</category>
+        <event>Stromboli Volcano - Paroxysm</event>
+        <responseType>None</responseType>
+        <urgency>Unknown</urgency>
+        <severity>Extreme</severity>
+        <certainty>Unknown</certainty>
+        <eventCode>
+            <valueName>stromboli-px</valueName>
+            <value>Stromboli PX - 2023-11-22</value>
+        </eventCode>
+        <effective>2023-11-22T12:03:00+02:00</effective>
+        <onset>2023-11-22T12:03:00+02:00</onset>
+        <expires>2023-11-22T12:03:00+02:00</expires>
+        <senderName>INGV</senderName>
+        <headline>Paroxysmal explosion at Stromboli</headline>
+        <description>Paroxysmal explosion at Stromboli in the next few minutes</description>
+        <instruction>Io Non Rischio - Stromboli</instruction>
+        <web>https://www.iononrischio.gov.it/en/homepage/get-ready/volcanoes/stromboli/</web>
+        <parameter>
+            <valueName>val-01</valueName>
+            <value>0</value>
+            <valueName>val-02</valueName>
+            <value>0</value>
+            <valueName>val-03</valueName>
+            <value>0</value>
+            <valueName>val-04</valueName>
+            <value>0</value>
+            <valueName>val-05</valueName>
+            <value>0</value>
+            <valueName>val-06</valueName>
+            <value>0</value>
+            <valueName>val-07</valueName>
+            <value>0</value>
+            <valueName>val-08</valueName>
+            <value>0</value>
+            <valueName>val-09</valueName>
+            <value>0</value>
+            <valueName>val-10</valueName>
+            <value>0</value>
+        </parameter>
+        <area>
+            <areaDesc>Stromboli Island Warning</areaDesc>
+            <geocode>
+                <valueName>Eolie Island</valueName>
+                <value>00100</value>
+            </geocode>
+        </area>
+    </info>
+</alert>
